@@ -1,0 +1,1 @@
+Get-AdlStoreChildItemRecursive.ps1 -Account adlsedhdev -Path /basick_folder
